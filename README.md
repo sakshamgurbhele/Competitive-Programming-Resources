@@ -11,6 +11,8 @@ Created with a view to connecting people to information, this list below contain
 
 Please Feel free to contribute
 
+[Contribution.md](Contribution.md)
+
 You can also contribute by sharing!  
 Share the list with your classmates, your friends and everyone :)
 

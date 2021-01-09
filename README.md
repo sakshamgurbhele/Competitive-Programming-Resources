@@ -51,7 +51,7 @@ Share the list with your classmates, your friends and everyone :)
 - https://github.com/donnemartin/system-design-primer
 - https://www.youtube.com/watch?v=VJpfO6KdyWE
 
-## Platforms to Practice: 
+## Platforms to Practice:
 * ### [Codeforces](http://codeforces.com/contests)
 * ### [Codechef](https://www.codechef.com)
 * ### [Leetcode](https://leetcode.com)
@@ -65,7 +65,7 @@ Share the list with your classmates, your friends and everyone :)
 * ### [UrionlineJudge](https://www.urionlinejudge.com.br/judge/en/login)
 
 
-## Problem Solving Books: 
+## Problem Solving Books:
 - A Path to Combinatorics for Undergraduates
 - Competitive Programmers Handbook - Antti Laaksonen - July 2018
 - Competitive Programming 3 - The New Lower Bound of Programming Contests
@@ -79,13 +79,17 @@ Share the list with your classmates, your friends and everyone :)
 - Cracking the Coding Interview: 150 Programming Questions and Solutions
 
 ## Video Tutorials
-- https://www.youtube.com/channel/UCBr_Fu6q9iHYQCh13jmpbrg
-- https://www.youtube.com/channel/UCKuDLsO0Wwef53qdHPjbU2Q
-- https://www.youtube.com/channel/UC7rNzgC2fEBVpb-q_acpsmw
-- https://www.youtube.com/channel/UCfv8cds8AfIM3UZtAWOz6Gg
-- https://www.youtube.com/channel/UC1fLEeYICmo3O9cUsqIi7HA
-- https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw
-- https://www.youtube.com/channel/UC9fDC_eBh9e_bogw87DbGKQ
+- **Errichto** : https://tinyurl.com/y5yrq3f3
+- **William Lin** : https://tinyurl.com/y54tbf5v
+- **Pepcoding** : https://tinyurl.com/y3uw2la2
+- **Code for Cause** : https://tinyurl.com/yxp2g38e
+- **Nick White** : https://tinyurl.com/y6jwlknb
+- **Gaurav Sen** : https://tinyurl.com/yxgoumu7
+- **Rachit Jain** : https://tinyurl.com/y6teauqh
+- **take U forward** : https://tinyurl.com/y2yj5a3s
+- **Tech Programming CS IT** : https://tinyurl.com/y5xad5cn
+- **Manas Dubey** : https://tinyurl.com/y2jcsm7a
+- **Love Babbar** : https://tinyurl.com/y2bmlva3
 
 # Interview Prep
 * ### [Pramp](https://www.pramp.com/#/)

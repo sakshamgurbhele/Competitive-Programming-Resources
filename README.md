@@ -24,27 +24,27 @@ Share the list with your classmates, your friends and everyone :)
 
 
 ## Problems & Tips
-- https://cses.fi/problemset/
-- https://cp-algorithms.com
-- https://atcoder.jp/contests/dp/tasks
-- https://leetcode.com/discuss/interview-question/352460/Google-Online-Assessment-Questions
-- https://twchen.gitbook.io/leetcode/
-- https://www.pramp.com/#/
-- https://docs.google.com/document/d/1wUCqhVHydWiDk6FJdFLSMpgigNrGcs4OFZg0Wa7JGEw/edit
-- https://www.hackerearth.com/practice/
-- https://interviewing.io
-- https://www.quora.com/What-are-the-best-ways-to-master-dynamic-programming/answer/Sameer-Gulati-3
-- https://www.quora.com/How-do-I-get-good-at-math-for-competitive-programming/answer/Sameer-Gulati-3
-- https://www.quora.com/How-can-I-be-good-at-graph-theory-based-programming-problems-in-competitive-programming/answer/Sameer-Gulati-3
-- https://www.quora.com/What-is-a-list-of-data-structures-that-a-competitive-programmer-must-know/answer/Sameer-Gulati-3?c
-- https://leetcode.com/discuss/general-discussion/651719/how-to-solve-dp-string-template-and-4-steps-to-be-followed
-- https://technicalbattle.blogspot.com/2020/05/best-blogs-on-codeforces-links-for-best.html
-- https://petr-mitrichev.blogspot.com
-- https://www.hackerearth.com/blog/developers/7-steps-to-improve-your-data-structure-and-algorithm-skills/
-- https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed
-- https://www.quora.com/q/techiedelight/500-Data-Structures-and-Algorithms-interview-questions-and-their-solutions
-- https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/
-- https://www.bigocheatsheet.com/
+
+* ##### [Google Online Assessment Questions](https://tinyurl.com/y6acahdx)
+* ##### [Links for the best blogs on Codeforces](https://tinyurl.com/y4y3ly9t)
+* ##### [What are the best ways to master dynamic programming?](https://tinyurl.com/yyoehdfg)
+* ##### [How do I get good at math for competitive programming?](https://tinyurl.com/y28myw3w)
+* ##### [7 steps to improve your data structure and algorithm skills](https://tinyurl.com/y2wkh8j2)
+* ##### [Looking for a set of programming questions with answers?](https://tinyurl.com/y2agxkd7)
+* ##### [Here are the 14 Patterns to Ace Any Coding Interview Question](https://tinyurl.com/yxphv2z8)
+* ##### [Scared of interviews? Practice live interviews with peers for free.](https://www.pramp.com/#/)
+* ##### [Got stuck while solving DP - String problem? Learn it here in 4 easy steps](https://tinyurl.com/y8atwgt4)
+* ##### [Want to practice interviewing with engineers from Google, Facebook etc.?](https://interviewing.io)
+* ##### [500 Data Structures and Algorithms interview questions and their solutions](https://tinyurl.com/y3bajzwj)
+* ##### [Love to participate in coding contests? Don't forget to check this out then!](https://tinyurl.com/y2fu26hs)
+* ##### [What is a list of data structures that a competitive programmer must know?](https://tinyurl.com/y6b9swug)
+* ##### [12 week Leetcode program to get you through the coding concepts and problems](https://tinyurl.com/y2ryb2n2)
+* ##### [Want to learn algorithmic programming? Here is set of all the questions you need.](https://cses.fi/problemset/)
+* ##### [Interested in competitive programming but don't know how to start? Here is great start for you.](https://cp-algorithms.com)
+* ##### [How can I be good at graph theory based programming problems in competitive programming?](https://tinyurl.com/y4g6lx4h)
+* ##### [Searching for the space and time Big-O complexities of common algorithms used in Computer Science?](https://tinyurl.com/wplu35q)
+* ##### [Preparing for a coding interview? Go through these top 10 coding problems of important  topics with their solutions](https://tinyurl.com/yao32vzv)
+* ##### [Like competing in coding rounds with peers from all over the world? Here is the blog written by one of the coder from Codeforces](https://tinyurl.com/y4zgae74)
 
 ## System Design
 - https://www.youtube.com/watch?v=xpDnVSmNFX0&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX

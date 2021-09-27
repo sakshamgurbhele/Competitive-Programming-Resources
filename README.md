@@ -79,13 +79,13 @@ Share the list with your classmates, your friends and everyone :)
 - Cracking the Coding Interview: 150 Programming Questions and Solutions
 
 ## Video Tutorials
-- **Errichto** : https://tinyurl.com/y5yrq3f3
-- **William Lin** : https://tinyurl.com/y54tbf5v
-- **Pepcoding** : https://tinyurl.com/y3uw2la2
-- **Code for Cause** : https://tinyurl.com/yxp2g38e
-- **Nick White** : https://tinyurl.com/y6jwlknb
-- **Gaurav Sen** : https://tinyurl.com/yxgoumu7
-- **Rachit Jain** : https://tinyurl.com/y6teauqh
+- **Errichto** : http://tiny.cc/Errichto
+- **William Lin** : http://tiny.cc/WilliamLin
+- **Pepcoding** : http://tiny.cc/Pepcoding
+- **Code for Cause** : http://tiny.cc/CodeforCause
+- **Nick White** : http://tiny.cc/NickWhite
+- **Gaurav Sen** : http://tiny.cc/GauravSen
+- **Rachit Jain** : http://tiny.cc/RachitJain
 - **take U forward** : https://tinyurl.com/y2yj5a3s
 - **Tech Programming CS IT** : https://tinyurl.com/y5xad5cn
 - **Manas Dubey** : https://tinyurl.com/y2jcsm7a
